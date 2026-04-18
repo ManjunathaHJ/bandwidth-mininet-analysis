@@ -1,0 +1,6 @@
+Scenario                Bandwidth                Observation
+
+Normal                  37.4 Gb/s                Stable performance
+Parallel                39.5 Gb/s                Increased throughput
+Delay                   1.32 Gb/s                Reduced due to latency
+Limited                 9.41 Mb/s                Bandwidth restricted
